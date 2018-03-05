@@ -7,23 +7,17 @@ Each exercise has different added challenges which I will do once the right chap
 
 These exercises can be done in any code, but I am using Python 3.6.
 
-Exercise 1: Completed
-Saying Hello
+Exercise 1: Saying Hello - Completed
 
-Exercise 2: Completed
-Number of Characters in a String
+Exercise 2: Number of Characters in a String - Completed
 
-Exercise 3: Completed
-Printing quotes
+Exercise 3: Printing quotes - Completed
 
-Exercise 4: Completed
-Mad Lib
+Exercise 4: Mad Lib - Completed
 
-Exercise 5:
-Simple Math
+Exercise 5: Simple Math - Completed
 
-Exercise 6:
-Retirement Calculator
+Exercise 6: Retirement Calculator - Completed
 
 Exercise 7:
 Are of a Rectangular Room
