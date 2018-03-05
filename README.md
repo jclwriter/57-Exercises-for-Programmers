@@ -16,7 +16,7 @@ Number of Characters in a String
 Exercise 3: Completed
 Printing quotes
 
-Exercise 4:
+Exercise 4: Completed
 Mad Lib
 
 Exercise 5:
