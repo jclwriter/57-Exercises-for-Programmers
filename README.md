@@ -14,7 +14,7 @@ Exercise 2: Completed
 Number of Characters in a String
 
 Exercise 3: Completed
-Printing quotes with escape characters.
+Printing quotes
 
 Exercise 4:
 Mad Lib

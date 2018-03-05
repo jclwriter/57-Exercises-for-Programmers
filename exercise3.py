@@ -1,6 +1,9 @@
 '''
-This program allows for user input, and then says hello to the user.
+Exercise 3: Printing Quotes
+This program will ask for 2 user inputs; a quote, and the author of said quote
 '''
 
-user_name = input('What is your name? ')
-print(f'Hello, {user_name}, nice to meet you.')
+user_quote = input('Please enter a quote: ')
+user_quoter = input('Who said that quote? ')
+
+print(f'{user_quoter} says, \'{user_quote}\'')

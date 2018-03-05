@@ -1,4 +1,5 @@
 '''
+Exercise 2: Number of Characters in a String
 This program allows user input, then counts the string,
 the user can not enter nothing.
 '''
