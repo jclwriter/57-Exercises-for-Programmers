@@ -19,8 +19,7 @@ Exercise 5: Simple Math - Completed
 
 Exercise 6: Retirement Calculator - Completed
 
-Exercise 7:
-Are of a Rectangular Room
+Exercise 7: Area of a Rectangular Room - Completed
 
 Exercise 8:
 Pizza Party
@@ -76,7 +75,7 @@ Anagram Checker
 Exercise 25:
 Password Strength Indicator
 
-Exercise 26: 
+Exercise 26:
 Months to Pay Off a Credit Card
 
 Exercise 27:
@@ -91,7 +90,7 @@ Handling Bad Inputs
 Exercise 30:
 Multiplacation Table
 
-Exercise 31: 
+Exercise 31:
 Karvonen Heart Rate
 
 Exercise 32:
